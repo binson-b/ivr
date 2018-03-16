@@ -17,7 +17,7 @@ Download the source and run
 ### Usage
 To use the KooKoo library, just 'import kookoo' in the your current python
 file. As shown in example-kookooml.py you can create the necessary objects to create the markup.
-For more documentation, check out http://www.kookoo.in/documentation.php
+For more documentation, check out https://www.kookoo.in/index.php/kookoo-docs
 
 ### Files
   * **kookoo.py**: include this library in your code
