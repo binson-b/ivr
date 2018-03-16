@@ -22,6 +22,6 @@ For more documentation, check out http://www.kookoo.in/documentation.php
 ### Files
   * **kookoo.py**: include this library in your code
   * **examples/example-kookooml.py**: example usage of the TwiML generator
-  * **examples/sample.py**: example usage of the TwiML generator
+
 ### License
 The KooKoo Python Helper Library is distributed under the MIT License
